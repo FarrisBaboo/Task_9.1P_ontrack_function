@@ -1,4 +1,4 @@
-name: OnTrack CI
+name: OnTrack_CI
 
 on:
   push:
