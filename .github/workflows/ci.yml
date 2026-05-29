@@ -20,5 +20,4 @@ jobs:
         distribution: 'temurin'
 
     - name: Build with Maven
-      working-directory: taskstatus
       run: mvn -B test
