@@ -1,4 +1,4 @@
-name: OnTrack Java CI
+name: OnTrack CI
 
 on:
   push:
