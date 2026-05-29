@@ -1,4 +1,4 @@
-name: Java CI
+name: OnTrack Java CI
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  ontrack-build:
     runs-on: ubuntu-latest
 
     steps:
